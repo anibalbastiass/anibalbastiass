@@ -4,6 +4,11 @@
 
 This is my space. My name is Anibal and I'm a Android Engineer with 8 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
 
+## YouTube Streaming - Challenge live coding on Android App (August 18th, 2021)
+[![Coding Challenge](https://img.youtube.com/vi/wh1hVG0i-KM/0.jpg)](https://www.youtube.com/watch?v=wh1hVG0i-KM)
+
+[Watch YouTube Video](https://www.youtube.com/watch?v=wh1hVG0i-KM)
+
 
 #### Tech Stack
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;
