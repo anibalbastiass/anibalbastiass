@@ -1,8 +1,8 @@
 # Anibal Bastias Soto - @anibalbastiass
 
-### Hello friends !! 👋
+### Hey everyone! 👋
 
-This is my space. My name is Anibal and I'm a Android Engineer with 8 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
+This is my Github page. My name is Anibal and I'm a Android Engineer with 8 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
 
 ## YouTube Streaming - Challenge live coding on Android App (August 18th, 2021)
 [![Coding Challenge](https://img.youtube.com/vi/wh1hVG0i-KM/0.jpg)](https://www.youtube.com/watch?v=wh1hVG0i-KM)
@@ -29,4 +29,4 @@ This is my space. My name is Anibal and I'm a Android Engineer with 8 years of e
 <a href='mailto:anibal.bastias@gmail.com'><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 #### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=anibalbastiass)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anibalbastiass)
