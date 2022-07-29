@@ -2,7 +2,7 @@
 
 ### Hey everyone! 👋
 
-This is my Github page. My name is Anibal and I'm a Android Engineer with 8 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
+This is my Github page. My name is Anibal and I'm a Android Engineer with 9 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
 
 ## YouTube Streaming - Challenge live coding on Android App (August 18th, 2021)
 [![Coding Challenge](https://img.youtube.com/vi/wh1hVG0i-KM/0.jpg)](https://www.youtube.com/watch?v=wh1hVG0i-KM)
