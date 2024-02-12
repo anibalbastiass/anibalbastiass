@@ -27,6 +27,3 @@ This is my Github page. My name is Anibal and I'm a Android Engineer with 9 year
 #### How to reach me?
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anibalbastias/)
 <a href='mailto:anibal.bastias@gmail.com'><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-#### Repository stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anibalbastiass)
