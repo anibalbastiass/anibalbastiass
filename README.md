@@ -6,6 +6,11 @@ This is my Github page. My name is Anibal and I'm a Android Engineer with 10 yea
 
 I've been working on Backend stuff with TypeScript, NodeJS, KoaJS, tons of testing using Jest, Mocha, Chai. I'm a passionate engineer loves to learn new things.
 
+## Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anibalbastiass&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anibalbastiass&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anibalbastiass&theme=default)
+
 ## YouTube Streaming - Challenge live coding on Android App (August 18th, 2021)
 [![Coding Challenge](https://img.youtube.com/vi/wh1hVG0i-KM/0.jpg)](https://www.youtube.com/watch?v=wh1hVG0i-KM)
 
