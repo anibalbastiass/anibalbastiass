@@ -2,7 +2,7 @@
 
 ### Hey everyone! 👋
 
-This is my Github page. My name is Anibal and I'm a Android Engineer with 10 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
+This is my Github page. My name is Anibal and I'm a Android Engineer with 12 years of experience in different kinds of companies and products. I have participated in the development processes of multiple Android native apps and is well versed in Kotlin and Java, as well as Architecture patterns. I've worked for companies and start-ups from Chile, the USA, Canada, and Australia, and is used to interacting with distributed teams as well. 
 
 I've been working on Backend stuff with TypeScript, NodeJS, KoaJS, tons of testing using Jest, Mocha, Chai. I'm a passionate engineer loves to learn new things.
 
